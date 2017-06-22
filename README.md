@@ -1,6 +1,7 @@
 <p align="center">
     <img src="_imagens/lampada-apagada.jpg" />
+    ### Lampada-teste-js
   </a>
 </p>
-# Lampada-teste-js
-Noções básicas de JavaScript. Aprendendo um pouco de interatividade que o JavaScript oferece.
+
+#Noções básicas de JavaScript. Aprendendo um pouco de interatividade que o JavaScript oferece.

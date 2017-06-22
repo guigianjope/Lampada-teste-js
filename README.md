@@ -1,4 +1,5 @@
-<img src="_imagens/lampada-apagada.jpg" left="1050px"/></br>
+<p align="left" img src="_imagens/lampada-apagada.jpg" /></p>
+</br>
 <p align="center">
     <h1> Lampada-teste-js </h1>
   </a>
